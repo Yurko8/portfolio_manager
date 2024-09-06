@@ -15,5 +15,3 @@ This project leverages various advanced techniques and libraries to optimize and
 Deep Learning (TensorFlow): TensorFlow is used for modeling and predicting future market movements. The project implements deep learning models to assess potential portfolio performance and guide investment decisions.
 
 PyPortfolioOpt: This library is utilized for optimizing portfolio allocations. Using modern portfolio theory, it helps balance assets in a way that minimizes risk while maximizing returns. It enables efficient frontier calculations and provides optimized weights for different asset classes.
-
-Geometric Brownian Motion (GBM): GBM is employed to simulate stock price movements. This stochastic model helps generate future scenarios for the price trajectory of assets, which is critical for understanding potential risks and returns in uncertain markets.
